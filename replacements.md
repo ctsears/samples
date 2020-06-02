@@ -1,5 +1,5 @@
-INCLUDE
+INCLUDE CONTENT
 
 ```powershell
-    $secret = Set-AZKeyVaultSecret -VaultName 'YourVaultName' -Name 'SQLPassword' -SecretValue $secretvalue
+$secret = Set-AZKeyVaultSecret -VaultName 'YourVaultName' -Name 'SQLPassword' -SecretValue $secretvalue
 ```
