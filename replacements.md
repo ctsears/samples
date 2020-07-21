@@ -4,8 +4,6 @@ Please login to your lab with your **username** and **password** obtained from y
 
 This lab is really awesome, but unfortunately, it contains a mizpelt word.
 
-===
+##Exercise 1
 
-#Exercise I
-
-Content would go here :-)
+Off we go...
