@@ -2,4 +2,10 @@
 
 Please login to your lab with your **username** and **password** obtained from your instructor.
 
-Unfortunately this lab has a mizpelt word.
+This lab is really awesome, but unfortunately, it contains a mizpelt word.
+
+===
+
+#Exercise I
+
+Content would go here :-)
