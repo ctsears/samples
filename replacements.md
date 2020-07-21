@@ -1,3 +1,5 @@
-INCLUDE CONTENT
+#Welcome to your lab!
 
-This has lotz of mispelt words.
+Please login to your lab with your **username** and **password** obtained from your instructor.
+
+Unfortunately this lab has a mizpelt word.
